@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82dc7b54-0a01-4ee2-a239-c5846cdae255" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="e9911485-d396-4a7e-b2e5-070c8fab445f" />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YlGsbcN0uNlKdr8gGs4vxs9JWk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nelliel-web.github.io.loc" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager">
+    <configuration name="vendor" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/vendor" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.vendor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dc7b54-0a01-4ee2-a239-c5846cdae255" name="Default Changelist" comment="" />
+      <created>1583509975014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583509975014</updated>
+      <workItem from="1583509976556" duration="5193000" />
+      <workItem from="1583568918347" duration="8821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#CLI_Interpreters" timestamp="1583582387859">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="#CLI_Interpreters/0.0.1280.689@0.0.1280.689" timestamp="1583582387859" />
+    <state x="303" y="0" width="688" height="689" key="#vendor" timestamp="1583583226048">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="0" width="688" height="689" key="#vendor/0.0.1280.689@0.0.1280.689" timestamp="1583583226048" />
+    <state x="405" y="219" width="471" height="332" key="ComposerInitDialogKey" timestamp="1583583381312">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="405" y="219" width="471" height="332" key="ComposerInitDialogKey/0.0.1280.689@0.0.1280.689" timestamp="1583583381312" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1583583340876">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583583340876" />
+    <state x="477" y="266" key="NewPhpFileDialog" timestamp="1583580229338">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="477" y="266" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1583580229338" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1583515961221">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1583515961221" />
+    <state x="326" y="67" width="629" height="556" key="find.popup" timestamp="1583570483834">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="326" y="67" width="629" height="556" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1583570483834" />
+  </component>
+</project>
